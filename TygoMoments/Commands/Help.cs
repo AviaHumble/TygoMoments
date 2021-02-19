@@ -14,6 +14,7 @@ namespace TygoMoments.Commands
             Console.WriteLine(" Simple Commands.");
             Console.ResetColor();
             Console.WriteLine("     -m -> Generate a Tygo Moment");
+            Console.WriteLine("     -r -> Generates more than one Tygo moment.");
         }
     }
 }
